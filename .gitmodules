@@ -1,15 +1,15 @@
 [submodule "QuasarAppLib"]
 	path = QuasarAppLib
-	url = https://github.com/QuasarApp/QuasarAppLib.git
+	url = https://github.com/kartaris/QuasarAppLib.git
 [submodule "qtTools"]
 	path = qtTools
 	url = https://github.com/qt/qttools.git
 [submodule "pe"]
 	path = pe
-	url = https://github.com/QuasarApp/pe-parse.git
+	url = https://github.com/kartaris/pe-parse.git
 [submodule "installer"]
 	path = installer
-	url = https://github.com/QuasarApp/DesktopInstaller.git
+	url = https://github.com/kartaris/DesktopInstaller.git
 [submodule "QuasarAppScripts"]
 	path = QuasarAppScripts
 	url = https://github.com/QuasarApp/QuasarAppScripts.git
@@ -18,7 +18,7 @@
 	url = https://github.com/QuasarApp/CQtDeployer.wiki.git
 [submodule "zip"]
 	path = zip
-	url = https://github.com/QuasarApp/zip.git
+	url = https://github.com/kartaris/zip.git
 [submodule "res/DoxyStyle"]
 	path = res/DoxyStyle
 	url = https://github.com/QuasarApp/DoxyStyle.git

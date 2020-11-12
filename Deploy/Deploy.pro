@@ -17,6 +17,9 @@ CONFIG += c++17
 TARGET = Deploy
 TEMPLATE = lib
 
+target.path = /usr/lib64/
+INSTALLS += target
+
 DEFINES += DEPLOY_LIBRARY
 
 VERSION = 1.5.0.5

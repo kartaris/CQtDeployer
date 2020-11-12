@@ -35,6 +35,8 @@ include('$$PWD/../pe/pe-parser-library/pe-parser-library.pri')
 
 
 TARGET = cqtdeployer
+target.path = /usr/bin/
+INSTALLS += target
 
 SOURCES += \
         main.cpp \
